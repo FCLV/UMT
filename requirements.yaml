@@ -283,8 +283,9 @@ tifffile @ file:///tmp/build/80754af9/tifffile_1619636090847/work
 tokenizers==0.10.3
 toml @ file:///tmp/build/80754af9/toml_1616166611790/work
 toolz @ file:///home/linux1/recipes/ci/toolz_1610987900194/work
-torch==1.10.2
-torchvision==0.11.3
+torch==1.10.2+cu102
+torchaudio==0.10.2+cu102
+torchvision==0.11.3+cu102
 tornado @ file:///C:/ci/tornado_1606942392901/work
 tqdm @ file:///tmp/build/80754af9/tqdm_1615925068909/work
 traitlets @ file:///home/ktietz/src/ci/traitlets_1611929699868/work
